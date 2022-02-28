@@ -4,6 +4,8 @@ With Collective Experience of more than 15 years in Consulting, Implementation o
 
 As a Professional Services Consultant, one of the core objectives is to strike a right balance between People, Processes and Technology to solve Complex Business challenges / requirements and achieve outcome-based results. Work with Users / Prospects and accompany them onto the journey to understand, learn, adopt, and implement Technology for Engineering Information Management to align with some of the Industry Best practices such as BS 1192, ISO 14224, CFIHOS Data Model Standards, Connected Data Environment (CDE).
 
+
+
 **Work Experience**
 ____________________________
 
@@ -257,34 +259,17 @@ __________________________________________________
 
 •	Work with Project Team to identify OOTB capabilities to meet business requirements, identify gaps, come up with a plan to address the gaps etc.
 
+**Other Key responsibilities**
+_____________________________________
+
+o	In Earlier role, part of Certification Team responsible for Testing of Bentley Geospatial Applications such as Bentley Map, Geo Web Publisher.
+
+o	Deliver Training to System Integrators (SI) such as TCS, Accenture supporting ALIM Solution.
+
+o	Mentorship role to new colleagues in the region and do preliminary on-board activities around ALIM. 
 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+                                                      ----------------- End of Document --------------------
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sushilkolte/DigitalCV/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
